@@ -1,0 +1,17 @@
+{
+  "name": "aioman-skills",
+  "owner": {
+    "name": "AIOMAN",
+    "url": "https://github.com/AIOMAN-OM"
+  },
+  "metadata": {
+    "description": "AIOMAN Arabic skills for Claude"
+  },
+  "plugins": [
+    {
+      "name": "aioman-presentations",
+      "source": "./plugins/aioman-presentations",
+      "description": "Arabic RTL PowerPoint presentations with AIOMAN identity"
+    }
+  ]
+}
