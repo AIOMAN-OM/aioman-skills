@@ -1,0 +1,9 @@
+{
+  "name": "aioman-presentations",
+  "version": "1.0.0",
+  "description": "Arabic RTL PowerPoint presentations with AIOMAN identity (navy/teal/gold, Cairo font)",
+  "author": {
+    "name": "AIOMAN",
+    "url": "https://github.com/AIOMAN-OM"
+  }
+}
